@@ -1,0 +1,25 @@
+.Parent {
+    border: 2px solid #cf1010;
+    height: 400px;
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 525px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(red,green);
+    border-radius: 10px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  label {
+    font-size: 30px;
+  }
+  input {
+    height: 20px;
+    width: 150px;
+  }
+  button {
+    
+  }
